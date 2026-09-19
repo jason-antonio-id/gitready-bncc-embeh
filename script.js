@@ -1,3 +1,4 @@
+js
 /* =========================================================
    script.js
    Ditambahkan oleh Anggota 3 di branch "scripting"
@@ -7,21 +8,21 @@ const members = [
   {
     name: "Jason Antonio",
     role: "Frontend Developer",
-    image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
+    image: "jasonantonio.jpeg",
     description: "Saya fokus membangun tampilan web yang rapi, responsif, dan mudah digunakan melalui struktur HTML dan desain antarmuka yang konsisten.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
     name: "Lewis Alvaro",
     role: "UI/UX Designer",
-    image: "https://i.pravatar.cc/300?img=47",
+    image: "lewisalvaro.jpeg",
     description: "Saya merancang pengalaman pengguna yang sederhana, menarik, dan mudah dipahami dengan memperhatikan kebutuhan pengguna di setiap halaman.",
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
   {
-    name: "Catherine Kimberly",
+    name: "Catherine Kimberley",
     role: "JavaScript Developer",
-    image: "https://i.pravatar.cc/300?img=12",
+    image: "catherine.jpeg",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
     skills: ["JavaScript", "DOM", "Git"]
   }
