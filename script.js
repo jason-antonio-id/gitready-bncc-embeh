@@ -20,7 +20,7 @@ const members = [
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
   {
-    name: "Catherine Kimberley",
+    name: "Catherine Kimberly",
     role: "JavaScript Developer",
     image: "catherine.jpeg",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
