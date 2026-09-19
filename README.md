@@ -4,7 +4,7 @@ Project kolaboratif tim BNCC untuk study case GitReady 2.0 — membangun landing
 
 ## Visualisasi
 
-![Screenshot](Screenshot 2026-09-19 115006.png)
+![Screenshot](screenshot.png)
 
 atau demo link: [isi kalau ada]
 
