@@ -1,4 +1,4 @@
-# [Embeh]
+# Kelompok Embeh
 
 Project kolaboratif tim BNCC untuk study case GitReady 2.0 — membangun landing page menggunakan Git & GitHub workflow (branching, Pull Request, code review).
 
