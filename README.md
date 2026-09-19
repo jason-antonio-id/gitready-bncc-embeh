@@ -16,9 +16,10 @@ atau demo link: [isi kalau ada]
 
 ## Fitur Utama
 
-- [Fitur 1, misal: Responsive layout]
-- [Fitur 2, misal: Interactive button/animasi dari script.js]
-- [Fitur 3]
+- Navigasi switch antar profil anggota (Anggota 1, 2, 3) via tombol navbar
+- Like counter interaktif dengan tombol 👍
+- Dark mode toggle
+- Menampilkan info profil (foto, nama, role, deskripsi, skill list) untuk tiap anggota
 
 ## Contribution
 
